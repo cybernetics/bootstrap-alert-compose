@@ -4,6 +4,7 @@ import androidx.compose.runtime.*
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
+import me.danish.bootstrap_alert.*
 
 fun main() = Window(title = "Bootstrap Alerts") {
     Box(

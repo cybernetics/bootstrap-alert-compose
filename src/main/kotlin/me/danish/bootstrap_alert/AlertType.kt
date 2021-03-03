@@ -1,3 +1,5 @@
+package me.danish.bootstrap_alert
+
 import androidx.compose.ui.graphics.Color
 
 sealed class AlertType(val contentColor: Color, val backgroundColor: Color, val borderColor: Color) {
